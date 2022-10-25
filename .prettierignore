@@ -1,0 +1,7 @@
+paper_admin/static/paper_admin/dist
+paper_admin/static/paper_admin/src/css/vendors
+*.yml
+*.yaml
+*.html
+package.json
+package-lock.json

@@ -1,0 +1,3 @@
+pytest==7.1.3
+pytest-tldr==0.2.4
+pytest-xdist==2.5.0
